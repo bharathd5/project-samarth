@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+python-dateutil
+spacy
+duckdb
+matplotlib
+tqdm
+regex
